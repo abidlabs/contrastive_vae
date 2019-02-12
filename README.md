@@ -10,5 +10,4 @@ Key code files are:
 * `vae_utils.py`, which contains files that define and train a fully-connected VAE and cVAE
 * `celeb_utils.py`, which contains files that define and train a convolutional VAE and cVAE
 
-We also include jupyter notebooks that demonstrate how to use these algorithms in a variety of different settings
-
+We also include jupyter notebooks that demonstrate how to use these algorithms in a variety of different settings. To get started, check out the [Grassy-MNIST experiments](https://github.com/abidlabs/contrastive_vae/blob/master/Grassy-MNIST%20Experiments.ipynb).
